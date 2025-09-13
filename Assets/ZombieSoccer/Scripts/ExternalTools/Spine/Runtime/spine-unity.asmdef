@@ -1,6 +1,13 @@
 {
-        "name": "spine-unity",
-        "references": [
-            "UnityEngine.UI"
-        ]
+  "name": "spine-unity",
+  "references": [ "UnityEngine.UI" ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompileReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
 }
