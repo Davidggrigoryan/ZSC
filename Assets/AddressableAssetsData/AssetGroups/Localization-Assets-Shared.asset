@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 453f301319b558c4588c75ca45797881
+  m_SerializeEntries:
+  - m_GUID: 2438f3a0e5750ef42ab01a6adc1b338b
+    m_Address: Assets/Resources/Localization/ToShopMovePopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 484f00b0c52865c4e89bcdee1e3c3fc7
+    m_Address: Assets/Resources/Localization/DisintegratePopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c386e84050ee7c4098ee0c2f42e4e55
+    m_Address: Assets/Resources/Localization/CharacterUpdateRarityCollection Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60592b59ced9fa546a98521ab5ef2a9e
+    m_Address: Assets/Resources/Localization/UpgradeCharacterPopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70612a2f136fb28468e229dcb7a63e30
+    m_Address: Assets/Resources/Localization/NotifyingPopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fb8952548b81ae4283622b31250ecc1
+    m_Address: Assets/Resources/Localization/TradePopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 805047a5e299f174ab482e3c7c4cf1e3
+    m_Address: Assets/Resources/Localization/StateSelectPopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7aec422fbe2a644bac7fef45ea0c3b1
+    m_Address: Assets/Resources/Localization/StorePopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd0c2af62b0ac2b4e90613eec070d451
+    m_Address: Assets/Resources/Localization/PortalCollection Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0c47daa0ed1cd74089873a6b6177f65
+    m_Address: Assets/Resources/Localization/MessageCollection Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: ea0557572599feb44a974fc91cd98c0d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: adea13ab97a7deb4b9737bd8ebe6c26c, type: 2}
+    - {fileID: 11400000, guid: 5ebf982fc83c0404ab05c95749e544bf, type: 2}

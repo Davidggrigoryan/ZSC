@@ -1,0 +1,264 @@
+
+oldman.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_ jaw
+  rotate: false
+  xy: 203, 828
+  size: 211, 97
+  orig: 211, 97
+  offset: 0, 0
+  index: -1
+b_ jaw1
+  rotate: false
+  xy: 416, 800
+  size: 200, 102
+  orig: 200, 102
+  offset: 0, 0
+  index: -1
+b_ jaw2
+  rotate: false
+  xy: 2, 297
+  size: 281, 174
+  orig: 281, 174
+  offset: 0, 0
+  index: -1
+b_ jaw3
+  rotate: false
+  xy: 2, 2
+  size: 346, 257
+  orig: 346, 257
+  offset: 0, 0
+  index: -1
+b_arms
+  rotate: true
+  xy: 912, 882
+  size: 96, 107
+  orig: 96, 107
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: true
+  xy: 285, 261
+  size: 210, 276
+  orig: 210, 276
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: false
+  xy: 792, 886
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+b_l_ear
+  rotate: false
+  xy: 498, 906
+  size: 98, 72
+  orig: 98, 72
+  offset: 0, 0
+  index: -1
+b_l_eye
+  rotate: false
+  xy: 184, 938
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+b_l_pupil
+  rotate: false
+  xy: 2, 969
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+b_legs
+  rotate: true
+  xy: 815, 385
+  size: 256, 171
+  orig: 256, 171
+  offset: 0, 0
+  index: -1
+b_r_ear
+  rotate: true
+  xy: 680, 901
+  size: 77, 110
+  orig: 77, 110
+  offset: 0, 0
+  index: -1
+b_r_eye
+  rotate: false
+  xy: 87, 941
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+b_r_pupil
+  rotate: false
+  xy: 14, 969
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+b_tail
+  rotate: false
+  xy: 2, 725
+  size: 176, 115
+  orig: 176, 115
+  offset: 0, 0
+  index: -1
+b_tongue
+  rotate: true
+  xy: 228, 934
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 563, 177
+  size: 241, 294
+  orig: 241, 294
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 598, 904
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 439, 645
+  size: 310, 133
+  orig: 310, 133
+  offset: 0, 0
+  index: -1
+glasses_shadow
+  rotate: false
+  xy: 180, 685
+  size: 257, 113
+  orig: 257, 113
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 618, 780
+  size: 272, 104
+  orig: 272, 104
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: true
+  xy: 751, 643
+  size: 135, 236
+  orig: 135, 236
+  offset: 0, 0
+  index: -1
+l_eyebrow
+  rotate: true
+  xy: 430, 916
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+l_palm
+  rotate: true
+  xy: 282, 927
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+l_pupil
+  rotate: false
+  xy: 26, 967
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+linse
+  rotate: false
+  xy: 2, 842
+  size: 199, 94
+  orig: 199, 94
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 126, 941
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+nose_shadow
+  rotate: true
+  xy: 53, 951
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+r_eyebrow
+  rotate: false
+  xy: 358, 927
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+r_pupil
+  rotate: true
+  xy: 39, 967
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+suspenders
+  rotate: true
+  xy: 2, 521
+  size: 162, 265
+  orig: 162, 265
+  offset: 0, 0
+  index: -1
+umbrella
+  rotate: true
+  xy: 269, 473
+  size: 168, 544
+  orig: 168, 544
+  offset: 0, 0
+  index: -1
+
+oldman2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_leash
+  rotate: false
+  xy: 2, 2
+  size: 667, 344
+  orig: 667, 344
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 466, 658
+  size: 351, 309
+  orig: 351, 309
+  offset: 0, 0
+  index: -1
+legs
+  rotate: true
+  xy: 2, 348
+  size: 308, 638
+  orig: 308, 638
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: true
+  xy: 2, 706
+  size: 261, 462
+  orig: 261, 462
+  offset: 0, 0
+  index: -1

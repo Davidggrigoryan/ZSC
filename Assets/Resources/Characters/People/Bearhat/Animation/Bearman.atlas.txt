@@ -1,0 +1,181 @@
+
+Bearman.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_line
+  rotate: false
+  xy: 219, 16
+  size: 193, 208
+  orig: 193, 208
+  offset: 0, 0
+  index: -1
+bear_head
+  rotate: false
+  xy: 2, 479
+  size: 504, 423
+  orig: 504, 423
+  offset: 0, 0
+  index: -1
+bear_nose
+  rotate: false
+  xy: 909, 703
+  size: 108, 70
+  orig: 108, 70
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 59
+  size: 197, 312
+  orig: 197, 312
+  offset: 0, 0
+  index: -1
+cheeks
+  rotate: false
+  xy: 2, 2
+  size: 215, 55
+  orig: 215, 55
+  offset: 0, 0
+  index: -1
+dots
+  rotate: true
+  xy: 981, 373
+  size: 132, 24
+  orig: 132, 24
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 201, 226
+  size: 290, 251
+  orig: 290, 251
+  offset: 0, 0
+  index: -1
+l_bear_ear
+  rotate: false
+  xy: 898, 479
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+l_bear_eye
+  rotate: true
+  xy: 981, 507
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+l_brow
+  rotate: true
+  xy: 55, 427
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: true
+  xy: 898, 401
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+l_glare
+  rotate: false
+  xy: 990, 531
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 508, 656
+  size: 126, 399
+  orig: 126, 399
+  offset: 0, 0
+  index: -1
+l_pupil
+  rotate: true
+  xy: 27, 377
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 508, 417
+  size: 237, 388
+  orig: 237, 388
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 915, 846
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1003, 670
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+parts
+  rotate: false
+  xy: 915, 775
+  size: 100, 69
+  orig: 100, 69
+  offset: 0, 0
+  index: -1
+r_bear_ear
+  rotate: true
+  xy: 898, 560
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+r_bear_eye
+  rotate: true
+  xy: 990, 612
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+r_brow
+  rotate: true
+  xy: 2, 411
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 909, 643
+  size: 92, 58
+  orig: 92, 58
+  offset: 0, 0
+  index: -1
+r_glare
+  rotate: true
+  xy: 990, 562
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 508, 784
+  size: 118, 405
+  orig: 118, 405
+  offset: 0, 0
+  index: -1
+r_pupil
+  rotate: true
+  xy: 2, 375
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1

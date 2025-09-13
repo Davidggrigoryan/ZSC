@@ -1,0 +1,9 @@
+diff a/Assets/Scripts/Installer/ProjectContextInstaller.cs b/Assets/Scripts/Installer/ProjectContextInstaller.cs	(rejected hunks)
+@@ -31,7 +31,6 @@
+         BindGameLayerFactories();
+         BindGameLayerMatch();
+         BindGameLayerVisualFX();
+-        BindPageManager();
+ 
+         UnityEngine.Debug.Log("ProjectContextInstaller Complete");
+     }

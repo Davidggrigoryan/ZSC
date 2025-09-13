@@ -1,0 +1,152 @@
+
+golfman.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beard
+  rotate: false
+  xy: 2, 717
+  size: 92, 120
+  orig: 92, 120
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 281, 2
+  size: 278, 408
+  orig: 278, 408
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 281, 412
+  size: 425, 533
+  orig: 425, 533
+  offset: 0, 0
+  index: -1
+ears
+  rotate: true
+  xy: 194, 740
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 995, 880
+  size: 85, 16
+  orig: 85, 16
+  offset: 0, 0
+  index: -1
+golf_club
+  rotate: false
+  xy: 2, 839
+  size: 825, 126
+  orig: 825, 126
+  offset: 0, 0
+  index: -1
+golf_club_part
+  rotate: true
+  xy: 147, 736
+  size: 101, 45
+  orig: 101, 45
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 28
+  size: 237, 75
+  orig: 237, 75
+  offset: 0, 0
+  index: -1
+hat top
+  rotate: true
+  xy: 96, 736
+  size: 101, 49
+  orig: 101, 49
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 829, 695
+  size: 164, 270
+  orig: 164, 270
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 561, 93
+  size: 375, 317
+  orig: 375, 317
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: true
+  xy: 96, 700
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+l_pupil
+  rotate: false
+  xy: 1013, 957
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 194, 790
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 2, 105
+  size: 277, 588
+  orig: 277, 588
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: true
+  xy: 129, 700
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+r_pupil
+  rotate: false
+  xy: 995, 868
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+
+golfman2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bug
+  rotate: true
+  xy: 2, 2
+  size: 286, 521
+  orig: 286, 521
+  offset: 0, 0
+  index: -1
+golf_clubs
+  rotate: true
+  xy: 2, 296
+  size: 213, 239
+  orig: 213, 239
+  offset: 0, 0
+  index: -1
+legs
+  rotate: false
+  xy: 243, 290
+  size: 276, 219
+  orig: 276, 219
+  offset: 0, 0
+  index: -1

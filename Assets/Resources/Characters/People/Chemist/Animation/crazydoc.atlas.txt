@@ -1,0 +1,230 @@
+
+crazydoc.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_leg
+  rotate: false
+  xy: 2, 138
+  size: 260, 330
+  orig: 260, 330
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 392, 717
+  size: 235, 305
+  orig: 235, 305
+  offset: 0, 0
+  index: -1
+bag_bubbles
+  rotate: true
+  xy: 326, 7
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+bage
+  rotate: true
+  xy: 270, 36
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+blob
+  rotate: true
+  xy: 598, 3
+  size: 17, 59
+  orig: 17, 59
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 470
+  size: 388, 552
+  orig: 388, 552
+  offset: 0, 0
+  index: -1
+bubble1
+  rotate: false
+  xy: 69, 3
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 88, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+bubble3
+  rotate: true
+  xy: 305, 16
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+ears
+  rotate: true
+  xy: 633, 486
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+f_knee
+  rotate: false
+  xy: 548, 507
+  size: 83, 208
+  orig: 83, 208
+  offset: 0, 0
+  index: -1
+f_leg
+  rotate: true
+  xy: 598, 22
+  size: 168, 201
+  orig: 168, 201
+  offset: 0, 0
+  index: -1
+fingers
+  rotate: true
+  xy: 329, 35
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 264, 190
+  size: 278, 259
+  orig: 278, 259
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 392, 481
+  size: 234, 154
+  orig: 234, 154
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 374, 5
+  size: 222, 183
+  orig: 222, 183
+  offset: 0, 0
+  index: -1
+l_forearm
+  rotate: true
+  xy: 633, 541
+  size: 202, 77
+  orig: 202, 77
+  offset: 0, 0
+  index: -1
+l_night_vision
+  rotate: true
+  xy: 686, 491
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+l_night_vision_part
+  rotate: false
+  xy: 766, 899
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 629, 745
+  size: 56, 277
+  orig: 56, 277
+  offset: 0, 0
+  index: -1
+liguid
+  rotate: true
+  xy: 687, 806
+  size: 67, 140
+  orig: 67, 140
+  offset: 0, 0
+  index: -1
+liguid_top
+  rotate: false
+  xy: 2, 2
+  size: 65, 16
+  orig: 65, 16
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 270, 99
+  size: 96, 41
+  orig: 96, 41
+  offset: 0, 0
+  index: -1
+mouth_back1
+  rotate: true
+  xy: 766, 979
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+mouth_back2
+  rotate: true
+  xy: 687, 761
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+night_vision_base
+  rotate: false
+  xy: 264, 142
+  size: 108, 46
+  orig: 108, 46
+  offset: 0, 0
+  index: -1
+night_vision_belt
+  rotate: false
+  xy: 525, 192
+  size: 103, 23
+  orig: 103, 23
+  offset: 0, 0
+  index: -1
+pipe_part
+  rotate: true
+  xy: 525, 217
+  size: 262, 258
+  orig: 262, 258
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 2, 20
+  size: 116, 266
+  orig: 116, 266
+  offset: 0, 0
+  index: -1
+r_night_vision
+  rotate: true
+  xy: 766, 934
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+r_night_vision_part
+  rotate: true
+  xy: 270, 3
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+robe
+  rotate: false
+  xy: 687, 875
+  size: 77, 147
+  orig: 77, 147
+  offset: 0, 0
+  index: -1

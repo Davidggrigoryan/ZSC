@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "150208302895",
+    "firebase_url": "https://zombiesoccer-587c1-default-rtdb.firebaseio.com",
+    "project_id": "zombiesoccer-587c1",
+    "storage_bucket": "zombiesoccer-587c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150208302895:android:32d70acc74aa42a8b8dbda",
+        "android_client_info": {
+          "package_name": "ru.tor.zombiesoccerdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150208302895-5g8vqu3pcgegic3dpf92bva88qmfk2nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.tor.zombiesoccerdev",
+            "certificate_hash": "7ba46edf47243ebebd8d9580f5a2f9511c9cbd99"
+          }
+        },
+        {
+          "client_id": "150208302895-mu7v9q7righd4adg24l8jg2d5hbu7lhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.tor.zombiesoccerdev",
+            "certificate_hash": "93372d51613463511758a1506636678a1fdc4dcc"
+          }
+        },
+        {
+          "client_id": "150208302895-pf81383maj8b8q7jjkj81qktsudrnf7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.tor.zombiesoccerdev",
+            "certificate_hash": "3bea0375b0448255c3378c1ca7114cdafd38a513"
+          }
+        },
+        {
+          "client_id": "150208302895-jvjuu8pl2fpreijvjvaq19k0rmbjamf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyF0QrgNd_OkVpoRfkHs-rCM5tAUjP4cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150208302895-jvjuu8pl2fpreijvjvaq19k0rmbjamf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150208302895-8pnjtpf4tn4tt2mfktr7tr58obh9am5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.tor.zombiesoccerdev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

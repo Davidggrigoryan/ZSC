@@ -1,0 +1,193 @@
+
+fatboy.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+automat
+  rotate: false
+  xy: 286, 2
+  size: 375, 370
+  orig: 375, 370
+  offset: 0, 0
+  index: -1
+automat1
+  rotate: false
+  xy: 2, 481
+  size: 328, 186
+  orig: 328, 186
+  offset: 0, 0
+  index: -1
+blur bird
+  rotate: true
+  xy: 373, 811
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+casc
+  rotate: false
+  xy: 192, 669
+  size: 172, 146
+  orig: 172, 146
+  offset: 0, 0
+  index: -1
+cheeks
+  rotate: false
+  xy: 208, 817
+  size: 163, 42
+  orig: 163, 42
+  offset: 0, 0
+  index: -1
+chin
+  rotate: true
+  xy: 765, 790
+  size: 69, 82
+  orig: 69, 82
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 120, 841
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+fat
+  rotate: false
+  xy: 599, 609
+  size: 314, 139
+  orig: 314, 139
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 527, 798
+  size: 93, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 92
+  size: 282, 387
+  orig: 282, 387
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: true
+  xy: 332, 374
+  size: 233, 501
+  orig: 233, 501
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 622, 792
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+l_eyebrow
+  rotate: false
+  xy: 31, 842
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+l_pupil
+  rotate: false
+  xy: 2, 847
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 849, 750
+  size: 113, 109
+  orig: 113, 109
+  offset: 0, 0
+  index: -1
+nest back
+  rotate: false
+  xy: 2, 683
+  size: 188, 133
+  orig: 188, 133
+  offset: 0, 0
+  index: -1
+nest front
+  rotate: false
+  xy: 366, 656
+  size: 231, 140
+  orig: 231, 140
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 161, 818
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 692, 791
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+r_eyebrow
+  rotate: false
+  xy: 72, 842
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+r_pupil
+  rotate: false
+  xy: 17, 847
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+yellow bird
+  rotate: true
+  xy: 440, 803
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+
+fatboy2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 439, 2
+  size: 512, 522
+  orig: 512, 522
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: true
+  xy: 2, 130
+  size: 384, 435
+  orig: 384, 435
+  offset: 0, 0
+  index: -1
+
+fatboy3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+legs
+  rotate: false
+  xy: 2, 2
+  size: 618, 665
+  orig: 618, 665
+  offset: 0, 0
+  index: -1

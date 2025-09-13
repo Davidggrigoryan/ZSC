@@ -1,0 +1,438 @@
+
+wolfman.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bang
+  rotate: false
+  xy: 832, 1734
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 1208
+  size: 243, 368
+  orig: 243, 368
+  offset: 0, 0
+  index: -1
+cheeks
+  rotate: false
+  xy: 463, 1755
+  size: 152, 35
+  orig: 152, 35
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: true
+  xy: 1361, 1697
+  size: 93, 412
+  orig: 93, 412
+  offset: 0, 0
+  index: -1
+l_arm1
+  rotate: false
+  xy: 372, 1163
+  size: 266, 264
+  orig: 266, 264
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 918, 1727
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+l_eyelid
+  rotate: false
+  xy: 167, 1769
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+l_galre
+  rotate: true
+  xy: 132, 1649
+  size: 118, 127
+  orig: 118, 127
+  offset: 0, 0
+  index: -1
+r_glare
+  rotate: true
+  xy: 132, 1649
+  size: 118, 127
+  orig: 118, 127
+  offset: 0, 0
+  index: -1
+l_middle
+  rotate: true
+  xy: 414, 1758
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+l_pinky
+  rotate: true
+  xy: 335, 1763
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+l_pupil
+  rotate: false
+  xy: 2, 1778
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+legs
+  rotate: true
+  xy: 640, 1109
+  size: 269, 299
+  orig: 269, 299
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 62, 1774
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 309, 1767
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 1569, 1304
+  size: 215, 212
+  orig: 215, 212
+  offset: 0, 0
+  index: -1
+r_arm1
+  rotate: false
+  xy: 1256, 1347
+  size: 311, 208
+  orig: 311, 208
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 983, 1726
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+r_eyelid
+  rotate: false
+  xy: 117, 1771
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+r_pupil
+  rotate: false
+  xy: 16, 1778
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+skin
+  rotate: false
+  xy: 845, 1576
+  size: 181, 148
+  orig: 181, 148
+  offset: 0, 0
+  index: -1
+strap
+  rotate: true
+  xy: 199, 1453
+  size: 176, 227
+  orig: 176, 227
+  offset: 0, 0
+  index: -1
+strap_shadow
+  rotate: true
+  xy: 1275, 1709
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+w_cheeks
+  rotate: false
+  xy: 1136, 1723
+  size: 137, 67
+  orig: 137, 67
+  offset: 0, 0
+  index: -1
+w_hair
+  rotate: true
+  xy: 1053, 1726
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+w_head_l_ear
+  rotate: true
+  xy: 261, 1631
+  size: 125, 174
+  orig: 125, 174
+  offset: 0, 0
+  index: -1
+w_head_l_eye
+  rotate: false
+  xy: 375, 1762
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+w_head_nose
+  rotate: false
+  xy: 1028, 1562
+  size: 202, 159
+  orig: 202, 159
+  offset: 0, 0
+  index: -1
+w_head_r_ear
+  rotate: true
+  xy: 437, 1622
+  size: 131, 166
+  orig: 131, 166
+  offset: 0, 0
+  index: -1
+w_head_r_eye
+  rotate: false
+  xy: 617, 1755
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+w_l_eye
+  rotate: true
+  xy: 781, 1742
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+w_l_pupil
+  rotate: true
+  xy: 30, 1778
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+w_middle
+  rotate: false
+  xy: 740, 1391
+  size: 190, 183
+  orig: 190, 183
+  offset: 0, 0
+  index: -1
+w_mouth
+  rotate: false
+  xy: 659, 1753
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+w_nose
+  rotate: true
+  xy: 279, 1768
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+w_pinky
+  rotate: true
+  xy: 1740, 1518
+  size: 171, 187
+  orig: 171, 187
+  offset: 0, 0
+  index: -1
+w_r_arm_part
+  rotate: true
+  xy: 1232, 1557
+  size: 138, 506
+  orig: 138, 506
+  offset: 0, 0
+  index: -1
+w_r_eye
+  rotate: false
+  xy: 731, 1746
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+w_r_forearm copy
+  rotate: false
+  xy: 869, 98
+  size: 609, 802
+  orig: 609, 802
+  offset: 0, 0
+  index: -1
+w_r_middle copy
+  rotate: true
+  xy: 932, 1380
+  size: 175, 322
+  orig: 175, 322
+  offset: 0, 0
+  index: -1
+w_r_pinky copy
+  rotate: true
+  xy: 428, 1429
+  size: 172, 310
+  orig: 172, 310
+  offset: 0, 0
+  index: -1
+w_r_pupil
+  rotate: true
+  xy: 45, 1777
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+w_skin
+  rotate: false
+  xy: 2, 1475
+  size: 195, 172
+  orig: 195, 172
+  offset: 0, 0
+  index: -1
+w_tail
+  rotate: false
+  xy: 2, 646
+  size: 865, 461
+  orig: 865, 461
+  offset: 0, 0
+  index: -1
+w_transition_1
+  rotate: false
+  xy: 1506, 504
+  size: 503, 798
+  orig: 503, 798
+  offset: 0, 0
+  index: -1
+w_transition_2
+  rotate: true
+  xy: 2, 2
+  size: 642, 832
+  orig: 642, 832
+  offset: 0, 0
+  index: -1
+wolf_head
+  rotate: false
+  xy: 941, 902
+  size: 563, 443
+  orig: 563, 443
+  offset: 0, 0
+  index: -1
+wolf_l_ear
+  rotate: true
+  xy: 1775, 1691
+  size: 99, 154
+  orig: 99, 154
+  offset: 0, 0
+  index: -1
+wolf_l_eye
+  rotate: false
+  xy: 220, 1769
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+wolf_nose
+  rotate: false
+  xy: 605, 1603
+  size: 238, 129
+  orig: 238, 129
+  offset: 0, 0
+  index: -1
+wolf_r_ear
+  rotate: true
+  xy: 2, 1669
+  size: 100, 128
+  orig: 100, 128
+  offset: 0, 0
+  index: -1
+wolf_r_eye
+  rotate: false
+  xy: 252, 1769
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+
+wolfman2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+w_l_arm
+  rotate: false
+  xy: 1163, 789
+  size: 690, 1227
+  orig: 690, 1227
+  offset: 0, 0
+  index: -1
+w_transition_3
+  rotate: true
+  xy: 961, 74
+  size: 713, 870
+  orig: 713, 870
+  offset: 0, 0
+  index: -1
+w_transition_4
+  rotate: true
+  xy: 2, 2
+  size: 908, 957
+  orig: 908, 957
+  offset: 0, 0
+  index: -1
+w_transition_5
+  rotate: false
+  xy: 2, 912
+  size: 1159, 1104
+  orig: 1159, 1104
+  offset: 0, 0
+  index: -1
+
+wolfman3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+w_body
+  rotate: false
+  xy: 2, 2
+  size: 863, 818
+  orig: 863, 818
+  offset: 0, 0
+  index: -1
+w_head
+  rotate: false
+  xy: 626, 1172
+  size: 656, 653
+  orig: 656, 653
+  offset: 0, 0
+  index: -1
+w_legs
+  rotate: false
+  xy: 867, 288
+  size: 593, 882
+  orig: 593, 882
+  offset: 0, 0
+  index: -1
+w_r_arm
+  rotate: false
+  xy: 2, 822
+  size: 622, 1003
+  orig: 622, 1003
+  offset: 0, 0
+  index: -1

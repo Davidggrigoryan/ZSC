@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ToShopMovePopup Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ToShopMovePopup
+  m_TableCollectionNameGuidString: 2438f3a0e5750ef42ab01a6adc1b338b
+  m_Entries:
+  - m_Id: 9210621952
+    m_Key: DustTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146435665920
+    m_Key: DustText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2407035498496
+    m_Key: CrystalTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2490292432896
+    m_Key: CrystalText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2510500589568
+    m_Key: SlotTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2528036974592
+    m_Key: SlotText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2547116863488
+    m_Key: ToShopMoveButton
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1655721154250

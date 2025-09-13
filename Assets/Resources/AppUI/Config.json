@@ -1,0 +1,24 @@
+{
+  "setups": [
+    "AppUI/Views/UIView_IntroVideo",
+    "AppUI/Views/UIView_Loader",
+    "AppUI/Views/UIView_SignIn"
+  ],
+  "pages": [
+    "AppUI/Views/UIView_MainMenu",
+    "AppUI/Views/UIView_Portal",
+    "AppUI/Views/UIView_Store",
+    "AppUI/Views/UIView_StoreProduct",
+    "AppUI/Views/UIView_CharactersOverview",
+    "AppUI/Views/UIView_CharacterOverviewDetail",
+    "AppUI/Views/UIView_CharacterUpdateRarity",
+    "AppUI/Views/UIView_PlayerSettings",
+    "AppUI/Views/UIView_ShieldBuilder",
+    "AppUI/Views/UIView_PlacementCharacters",
+    "AppUI/Views/UIView_Match",
+    "AppUI/Views/UIView_MatchResult",
+    "AppUI/Views/UIView_Tower",
+    "AppUI/Views/UIView_MergeConfirmPage",
+    "AppUI/Views/UIView_PageOfMergeResult"
+  ]
+}

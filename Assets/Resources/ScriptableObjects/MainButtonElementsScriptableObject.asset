@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f90de95474797a4daffaf966b5d3911, type: 3}
+  m_Name: MainButtonElementsScriptableObject
+  m_EditorClassIdentifier: 
+  activeSprites:
+  - {fileID: 21300000, guid: d7f341c85a1e63d48b57e7ff43448f1f, type: 3}
+  - {fileID: 21300000, guid: e417b419a3fbed64eb9d32bd552d0b44, type: 3}
+  activeTextColor: {r: 1, g: 0.92941177, b: 0, a: 1}
+  inactivateSprites:
+  - {fileID: 21300000, guid: 109d4595d5069814e8135d58abda7042, type: 3}
+  - {fileID: 21300000, guid: b098217cdcbb4a143a933ec9f34b3d6e, type: 3}
+  inactiveTextColor: {r: 0.42745098, g: 0.4392157, b: 0.4509804, a: 1}

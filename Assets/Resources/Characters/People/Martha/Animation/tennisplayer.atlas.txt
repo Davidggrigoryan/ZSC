@@ -1,0 +1,146 @@
+
+tennisplayer.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 416, 687
+  size: 182, 334
+  orig: 182, 334
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 723, 397
+  size: 187, 198
+  orig: 187, 198
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 600, 777
+  size: 280, 244
+  orig: 280, 244
+  offset: 0, 0
+  index: -1
+hair_part
+  rotate: true
+  xy: 488, 318
+  size: 266, 233
+  orig: 266, 233
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 392, 93
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+l_eyebrow
+  rotate: false
+  xy: 464, 93
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+l_forearm
+  rotate: true
+  xy: 223, 19
+  size: 145, 167
+  orig: 145, 167
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 2, 166
+  size: 242, 406
+  orig: 242, 406
+  offset: 0, 0
+  index: -1
+l_pupil
+  rotate: false
+  xy: 470, 39
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 2, 13
+  size: 122, 151
+  orig: 122, 151
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 223, 2
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 470, 12
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 392, 15
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+r_eyebrow
+  rotate: true
+  xy: 494, 16
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+r_forearm
+  rotate: true
+  xy: 126, 13
+  size: 151, 95
+  orig: 151, 95
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 246, 172
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+r_pupil
+  rotate: true
+  xy: 464, 113
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 723, 216
+  size: 179, 187
+  orig: 179, 187
+  offset: 0, 0
+  index: -1
+racket
+  rotate: false
+  xy: 2, 574
+  size: 412, 447
+  orig: 412, 447
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 600, 586
+  size: 270, 189
+  orig: 270, 189
+  offset: 0, 0
+  index: -1

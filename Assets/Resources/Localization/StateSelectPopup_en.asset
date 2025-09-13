@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StateSelectPopup_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 805047a5e299f174ab482e3c7c4cf1e3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7174328320
+    m_Localized: Quit the game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312075063296
+    m_Localized: Stay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391104139264
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 443184812032
+    m_Localized: Restart this match?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 585812119552
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628266864640
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739009073152
+    m_Localized: Leave this match?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 978860347392
+    m_Localized: Stay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1045574946816
+    m_Localized: Leave
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,237 @@
+
+ostrich.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beak
+  rotate: true
+  xy: 337, 496
+  size: 114, 61
+  orig: 114, 61
+  offset: 0, 0
+  index: -1
+beak_part
+  rotate: true
+  xy: 519, 62
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 747, 682
+  size: 227, 157
+  orig: 227, 157
+  offset: 0, 0
+  index: -1
+brows
+  rotate: false
+  xy: 2, 8
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 438, 61
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+feathers
+  rotate: true
+  xy: 594, 373
+  size: 136, 141
+  orig: 136, 141
+  offset: 0, 0
+  index: -1
+h_back_arm
+  rotate: false
+  xy: 747, 536
+  size: 223, 144
+  orig: 223, 144
+  offset: 0, 0
+  index: -1
+h_back_leg
+  rotate: false
+  xy: 64, 9
+  size: 125, 45
+  orig: 125, 45
+  offset: 0, 0
+  index: -1
+h_body
+  rotate: false
+  xy: 2, 56
+  size: 374, 417
+  orig: 374, 417
+  offset: 0, 0
+  index: -1
+h_ear
+  rotate: true
+  xy: 263, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+h_eyelids
+  rotate: false
+  xy: 252, 23
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+h_eyes
+  rotate: false
+  xy: 388, 2
+  size: 93, 53
+  orig: 93, 53
+  offset: 0, 0
+  index: -1
+h_finger1
+  rotate: true
+  xy: 191, 11
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+h_finger2
+  rotate: false
+  xy: 359, 25
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+h_finger3
+  rotate: true
+  xy: 217, 17
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+h_front_arm
+  rotate: true
+  xy: 378, 133
+  size: 361, 214
+  orig: 361, 214
+  offset: 0, 0
+  index: -1
+h_front_leg
+  rotate: true
+  xy: 502, 676
+  size: 346, 243
+  orig: 346, 243
+  offset: 0, 0
+  index: -1
+h_hair
+  rotate: false
+  xy: 400, 500
+  size: 153, 110
+  orig: 153, 110
+  offset: 0, 0
+  index: -1
+h_head
+  rotate: true
+  xy: 747, 841
+  size: 181, 232
+  orig: 181, 232
+  offset: 0, 0
+  index: -1
+h_l_eyebrow
+  rotate: false
+  xy: 329, 2
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+h_l_pupil
+  rotate: false
+  xy: 217, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+h_mouth
+  rotate: false
+  xy: 246, 4
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+h_nose
+  rotate: true
+  xy: 329, 25
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+h_r_eyebrow
+  rotate: false
+  xy: 483, 33
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+h_r_pupil
+  rotate: false
+  xy: 232, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 154, 476
+  size: 181, 134
+  orig: 181, 134
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 475
+  size: 150, 547
+  orig: 150, 547
+  offset: 0, 0
+  index: -1
+l_pupil
+  rotate: false
+  xy: 307, 11
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+legs
+  rotate: false
+  xy: 154, 612
+  size: 346, 410
+  orig: 346, 410
+  offset: 0, 0
+  index: -1
+number
+  rotate: false
+  xy: 555, 511
+  size: 187, 163
+  orig: 187, 163
+  offset: 0, 0
+  index: -1
+number_back
+  rotate: false
+  xy: 378, 57
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+r_pipil
+  rotate: false
+  xy: 295, 11
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+wing
+  rotate: true
+  xy: 744, 231
+  size: 303, 211
+  orig: 303, 211
+  offset: 0, 0
+  index: -1

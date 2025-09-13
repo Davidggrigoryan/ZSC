@@ -1,0 +1,139 @@
+
+tigerman.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 167
+  size: 467, 830
+  orig: 467, 830
+  offset: 0, 0
+  index: -1
+cheeks
+  rotate: true
+  xy: 958, 872
+  size: 125, 40
+  orig: 125, 40
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 747, 91
+  size: 156, 195
+  orig: 156, 195
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 747, 249
+  size: 261, 254
+  orig: 261, 254
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 762, 512
+  size: 194, 485
+  orig: 194, 485
+  offset: 0, 0
+  index: -1
+l_claw
+  rotate: false
+  xy: 944, 187
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+l_claws
+  rotate: true
+  xy: 356, 39
+  size: 126, 73
+  orig: 126, 73
+  offset: 0, 0
+  index: -1
+l_ear
+  rotate: false
+  xy: 2, 40
+  size: 352, 125
+  orig: 352, 125
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 944, 158
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+l_eyebrow
+  rotate: false
+  xy: 608, 135
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+l_pupil
+  rotate: false
+  xy: 747, 514
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 32, 21
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 2, 2
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 471, 528
+  size: 289, 469
+  orig: 289, 469
+  offset: 0, 0
+  index: -1
+r_claws
+  rotate: true
+  xy: 431, 36
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 958, 839
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+r_eyebrow
+  rotate: true
+  xy: 1003, 959
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+r_pupil
+  rotate: false
+  xy: 985, 236
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 471, 161
+  size: 274, 365
+  orig: 274, 365
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+maninblack.png
+size: 1601,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer1
+  rotate: false
+  xy: 498, 61
+  size: 207, 460
+  orig: 207, 460
+  offset: 0, 0
+  index: -1
+Layer2
+  rotate: false
+  xy: 137, 40
+  size: 359, 481
+  orig: 359, 481
+  offset: 0, 0
+  index: -1
+bage
+  rotate: true
+  xy: 1296, 11
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+beard
+  rotate: false
+  xy: 567, 7
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 707, 68
+  size: 395, 453
+  orig: 395, 453
+  offset: 0, 0
+  index: -1
+ears
+  rotate: true
+  xy: 823, 2
+  size: 64, 98
+  orig: 64, 98
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 657, 16
+  size: 164, 43
+  orig: 164, 43
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1462, 20
+  size: 135, 72
+  orig: 135, 72
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1296, 312
+  size: 209, 269
+  orig: 209, 269
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 2, 7
+  size: 133, 514
+  orig: 133, 514
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: true
+  xy: 137, 4
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+l_eyebrow
+  rotate: false
+  xy: 207, 6
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+l_finger1
+  rotate: false
+  xy: 923, 7
+  size: 109, 59
+  orig: 109, 59
+  offset: 0, 0
+  index: -1
+l_finger2
+  rotate: false
+  xy: 498, 3
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+l_palm
+  rotate: true
+  xy: 1104, 243
+  size: 168, 183
+  orig: 168, 183
+  offset: 0, 0
+  index: -1
+l_pupil
+  rotate: false
+  xy: 322, 28
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+r_pupil
+  rotate: false
+  xy: 322, 28
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+neuralyzer
+  rotate: true
+  xy: 1034, 24
+  size: 42, 260
+  orig: 42, 260
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: true
+  xy: 1104, 89
+  size: 152, 356
+  orig: 152, 356
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: true
+  xy: 172, 4
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+r_eyebrow
+  rotate: false
+  xy: 263, 7
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+r_fingers
+  rotate: true
+  xy: 1289, 243
+  size: 67, 97
+  orig: 67, 97
+  offset: 0, 0
+  index: -1
+r_forearm
+  rotate: false
+  xy: 1462, 94
+  size: 137, 216
+  orig: 137, 216
+  offset: 0, 0
+  index: -1
+r_palm
+  rotate: true
+  xy: 1104, 413
+  size: 108, 186
+  orig: 108, 186
+  offset: 0, 0
+  index: -1

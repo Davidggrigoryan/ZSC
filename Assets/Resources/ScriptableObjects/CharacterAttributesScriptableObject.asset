@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5ccca05815b9e42953f5bb23a18d96, type: 3}
+  m_Name: CharacterAttributesScriptableObject
+  m_EditorClassIdentifier: 
+  backgrounds:
+  - {fileID: 21300000, guid: e7cbe91c57ab1fe45b863367f12b8428, type: 3}
+  - {fileID: 21300000, guid: 0f41511ea41bb0f48b2111da8b9c4d48, type: 3}
+  - {fileID: 21300000, guid: d5bad4d1f1047c142856360ead7687a4, type: 3}
+  - {fileID: 21300000, guid: abdec6e2044f7584ca62db41f7c1dd20, type: 3}
+  - {fileID: 21300000, guid: 0f41511ea41bb0f48b2111da8b9c4d48, type: 3}
+  slotBackgroundIcons:
+  - {fileID: 21300000, guid: 83044fa44ef485a44b082438d50509b1, type: 3}
+  - {fileID: 21300000, guid: 5eda74fd10295d448942ba47a9a1c3e3, type: 3}
+  - {fileID: 21300000, guid: 30a66e5237574c848beebe7eb38a1619, type: 3}
+  - {fileID: 21300000, guid: 8472fbca9adb5d745aa144ce4b1bf47c, type: 3}
+  - {fileID: 21300000, guid: b328bbdefe4f4a54eb8b3a867101facd, type: 3}
+  rarityIcons:
+  - {fileID: 21300000, guid: 67ee8028cf5a2e049b12d0cba73dd0a6, type: 3}
+  - {fileID: 21300000, guid: f9df0624ab446bc459fd65d1f8736078, type: 3}
+  - {fileID: 21300000, guid: e84578ea53b3c0c45bfe2892dc53d3c5, type: 3}
+  - {fileID: 21300000, guid: 6f5902b2f27d04945a962f69437af9b9, type: 3}
+  - {fileID: 21300000, guid: ba63fdaeab836b24f9e55ef22469e2fc, type: 3}
+  - {fileID: 21300000, guid: c61aad95929f97c439158705fdf0f3a5, type: 3}
+  - {fileID: 21300000, guid: 6b56a88cf48c58443919b0f67b682160, type: 3}
+  - {fileID: 21300000, guid: 735a4e88c4e8e31418910c6531a94fee, type: 3}
+  animalIcons:
+  - {fileID: 21300000, guid: 5c19bdc87b7889145bc3aeb3ce6e4313, type: 3}
+  - {fileID: 21300000, guid: 9ce1cdf8591be0e4a886fe3832948094, type: 3}
+  - {fileID: 21300000, guid: 90e7d1bc45b4f764a9e9894d81b6915d, type: 3}
+  - {fileID: 21300000, guid: 47cfd2894772a6b448ccbe314a848ba7, type: 3}
+  elementIcons:
+  - {fileID: 21300000, guid: 11a16ad7dec1871469335b1f21c7a9f1, type: 3}
+  - {fileID: 21300000, guid: 5a8074ebb32fc2e4ba1571776995f381, type: 3}
+  - {fileID: 21300000, guid: bfc2756971c99004b896a952083e06fe, type: 3}
+  - {fileID: 21300000, guid: ba754f34c501819469f1a936f9ef597b, type: 3}
+  roleIcons:
+  - {fileID: 21300000, guid: 5892695b08d34bd499874e17ad754b31, type: 3}
+  - {fileID: 21300000, guid: 42218252fd5e5cb4dba3864fa0d12797, type: 3}
+  - {fileID: 21300000, guid: 292c46fd5f5aa0f46883978ada7dcc7d, type: 3}
+  - {fileID: 21300000, guid: d2e74e1cd757cca4796a2e53d3b4eacc, type: 3}
