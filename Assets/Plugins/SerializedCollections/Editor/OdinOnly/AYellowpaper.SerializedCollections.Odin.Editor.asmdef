@@ -1,14 +1,14 @@
 {
-  "name": "Tayx.Graphy.Editor",
-  "rootNamespace": "",
-  "references": [ "Tayx.Graphy" ],
+  "name": "AYellowpaper.SerializedCollections.Odin.Editor",
+  "rootNamespace": "AYellowpaper.SerializedCollections.Editor",
+  "references": [ "AYellowpaper.SerializedCollections" ],
   "includePlatforms": [ "Editor" ],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "overrideReferences": false,
   "precompiledReferences": [],
   "autoReferenced": true,
-  "defineConstraints": [],
+  "defineConstraints": [ "ODIN_INSPECTOR" ],
   "versionDefines": [],
   "noEngineReferences": false
 }
