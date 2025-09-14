@@ -1,8 +1,8 @@
 {
   "name": "spine-unity-editor",
   "rootNamespace": "",
-  "references": [ "spine-unity" ],
-  "includePlatforms": [ "Editor" ],
+  "references": ["spine-unity"],
+  "includePlatforms": ["Editor"],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "overrideReferences": false,
