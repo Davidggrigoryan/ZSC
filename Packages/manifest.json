@@ -3,6 +3,7 @@
     "com.coffee.softmask-for-ugui": "https://github.com/mob-sakai/SoftMaskForUGUI.git",
     "com.coffee.ui-particle": "https://github.com/mob-sakai/ParticleEffectForUGUI.git",
     "com.jtfrom9.input-observable": "0.1.3",
+    "com.svermeulen.extenject": "9.1.0",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.ai.navigation": "2.0.8",
     "com.unity.collab-proxy": "2.8.2",
@@ -63,6 +64,14 @@
         "com.jtfrom9.input-observable",
         "com.neuecc.unirx",
         "com.openupm"
+      ]
+    },
+    {
+      "name": "OpenUPM",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.extenject",
+        "com.svermeulen"
       ]
     }
   ]
