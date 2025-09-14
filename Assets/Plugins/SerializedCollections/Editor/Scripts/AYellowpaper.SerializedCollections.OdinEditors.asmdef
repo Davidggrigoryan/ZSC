@@ -1,0 +1,12 @@
+{
+  "name": "AYellowpaper.SerializedCollections.OdinEditors",
+  "references": [],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": ["ODIN_INSPECTOR"],
+  "noEngineReferences": false
+}
