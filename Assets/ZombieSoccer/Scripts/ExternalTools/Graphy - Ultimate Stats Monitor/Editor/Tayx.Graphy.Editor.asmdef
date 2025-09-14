@@ -1,5 +1,6 @@
 {
   "name": "Tayx.Graphy.Editor",
+  "rootNamespace": "",
   "references": [ "Tayx.Graphy" ],
   "includePlatforms": [ "Editor" ],
   "excludePlatforms": [],
