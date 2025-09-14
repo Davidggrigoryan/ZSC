@@ -1,5 +1,6 @@
 {
   "name": "Tayx.Graphy",
+  "rootNamespace": "",
   "references": [ "UnityEngine.UI" ],
   "includePlatforms": [],
   "excludePlatforms": [],

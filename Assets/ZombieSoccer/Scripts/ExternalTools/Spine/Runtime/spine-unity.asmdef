@@ -1,5 +1,6 @@
 {
   "name": "spine-unity",
+  "rootNamespace": "",
   "references": [ "UnityEngine.UI" ],
   "includePlatforms": [],
   "excludePlatforms": [],
