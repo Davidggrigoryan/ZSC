@@ -1,3 +1,4 @@
+#if ODIN_INSPECTOR
 using UnityEditor;
 
 namespace AYellowpaper.SerializedCollections.Editor.Search
@@ -18,3 +19,4 @@ namespace AYellowpaper.SerializedCollections.Editor.Search
         public abstract bool IsMatch(SerializedProperty property);
     }
 }
+#endif

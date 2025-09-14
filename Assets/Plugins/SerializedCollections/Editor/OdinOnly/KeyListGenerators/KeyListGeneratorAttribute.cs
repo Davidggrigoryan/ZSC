@@ -1,3 +1,4 @@
+#if ODIN_INSPECTOR
 ﻿using System;
 
 namespace AYellowpaper.SerializedCollections.KeysGenerators
@@ -17,3 +18,4 @@ namespace AYellowpaper.SerializedCollections.KeysGenerators
         }
     }
 }
+#endif

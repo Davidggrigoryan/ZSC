@@ -1,3 +1,4 @@
+#if ODIN_INSPECTOR
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -20,3 +21,5 @@ namespace AYellowpaper.SerializedCollections.Editor
         public static readonly Color BorderColor = Color.gray;
     }
 }
+
+#endif

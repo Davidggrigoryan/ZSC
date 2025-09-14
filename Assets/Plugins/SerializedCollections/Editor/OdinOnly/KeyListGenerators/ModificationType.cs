@@ -1,3 +1,4 @@
+#if ODIN_INSPECTOR
 namespace AYellowpaper.SerializedCollections
 {
     public enum ModificationType
@@ -8,3 +9,4 @@ namespace AYellowpaper.SerializedCollections
         Confine,
     }
 }
+#endif

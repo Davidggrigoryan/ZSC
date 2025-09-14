@@ -1,3 +1,4 @@
+#if ODIN_INSPECTOR
 using AYellowpaper.SerializedCollections.Editor.Search;
 using System.Collections;
 using System.Collections.Generic;
@@ -107,3 +108,4 @@ namespace AYellowpaper.SerializedCollections.Editor.States
         }
     }
 }
+#endif

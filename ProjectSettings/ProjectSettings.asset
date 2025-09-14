@@ -853,18 +853,18 @@ PlayerSettings:
   webGLCloseOnQuit: 0
   webWasm2023: 0
   scriptingDefineSymbols:
-    Android: ODIN_INSPECTOR;ODIN_INSPECTOR_3;dUI_MANAGER
+    Android: dUI_MANAGER
     GameCoreScarlett: dUI_MANAGER
     GameCoreXboxOne: dUI_MANAGER
     LinuxHeadlessSimulation: dUI_MANAGER
     Nintendo Switch: dUI_MANAGER
     PS4: dUI_MANAGER
     PS5: dUI_MANAGER
-    Standalone: ODIN_INSPECTOR;ODIN_INSPECTOR_3;dUI_MANAGER
+    Standalone: dUI_MANAGER
     WebGL: dUI_MANAGER
     Windows Store Apps: dUI_MANAGER
     XboxOne: dUI_MANAGER
-    iPhone: ODIN_INSPECTOR;ODIN_INSPECTOR_3;dUI_MANAGER
+    iPhone: dUI_MANAGER
     tvOS: dUI_MANAGER
   additionalCompilerArguments: {}
   platformArchitecture: {}

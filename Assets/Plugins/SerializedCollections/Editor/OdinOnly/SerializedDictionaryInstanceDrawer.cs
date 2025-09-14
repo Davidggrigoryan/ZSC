@@ -1,3 +1,4 @@
+#if ODIN_INSPECTOR
 using AYellowpaper.SerializedCollections.Editor.Data;
 using AYellowpaper.SerializedCollections.Editor.States;
 using AYellowpaper.SerializedCollections.KeysGenerators;
@@ -726,3 +727,4 @@ namespace AYellowpaper.SerializedCollections.Editor
         }
     }
 }
+#endif

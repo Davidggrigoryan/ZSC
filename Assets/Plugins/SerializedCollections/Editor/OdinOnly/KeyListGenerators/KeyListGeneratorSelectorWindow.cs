@@ -1,3 +1,4 @@
+#if ODIN_INSPECTOR
 using System;
 using System.Collections.Generic;
 using UnityEditor;
@@ -180,3 +181,4 @@ namespace AYellowpaper.SerializedCollections.KeysGenerators
         }
     }
 }
+#endif

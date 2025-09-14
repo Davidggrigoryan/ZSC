@@ -1,3 +1,4 @@
+#if ODIN_INSPECTOR
 using System.Globalization;
 using UnityEditor;
 using UnityEngine;
@@ -107,3 +108,4 @@ namespace AYellowpaper.SerializedCollections.Editor.Search
         }
     }
 }
+#endif

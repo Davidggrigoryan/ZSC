@@ -1,3 +1,4 @@
+#if ODIN_INSPECTOR
 using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
@@ -32,3 +33,4 @@ namespace AYellowpaper.SerializedCollections.Editor.States
         }
     }
 }
+#endif

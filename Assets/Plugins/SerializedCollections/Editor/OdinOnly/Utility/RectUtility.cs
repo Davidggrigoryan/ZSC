@@ -1,3 +1,4 @@
+#if ODIN_INSPECTOR
 ﻿using UnityEngine;
 
 namespace AYellowpaper.SerializedCollections.Editor
@@ -39,3 +40,4 @@ namespace AYellowpaper.SerializedCollections.Editor
         public static Rect Cut(this Rect rect, float top, float right, float bottom, float left) => new Rect(rect.x + left, rect.y + top, rect.width - left - right, rect.height - top - bottom);
     }
 }
+#endif
