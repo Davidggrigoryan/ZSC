@@ -1,8 +1,8 @@
 {
   "name": "Tayx.Graphy.Editor",
   "rootNamespace": "",
-  "references": [ "Tayx.Graphy" ],
-  "includePlatforms": [ "Editor" ],
+  "references": ["Tayx.Graphy"],
+  "includePlatforms": ["Editor"],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "overrideReferences": false,
