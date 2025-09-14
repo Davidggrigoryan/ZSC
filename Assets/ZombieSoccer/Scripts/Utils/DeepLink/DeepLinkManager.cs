@@ -1,3 +1,4 @@
+#if ZSC_USE_FIREBASE
 ﻿using Firebase;
 using Firebase.DynamicLinks;
 using Firebase.Extensions;
@@ -75,3 +76,5 @@ namespace ZombieSoccer.DeepLink
         public class Factory : PlaceholderFactory<string, DeepLinkManager> { }
     }
 }
+
+#endif

@@ -1,3 +1,4 @@
+#if ZSC_USE_FIREBASE
 ﻿using Firebase.DynamicLinks;
 using System;
 using System.Threading.Tasks;
@@ -98,3 +99,5 @@ namespace ZombieSoccer.DeepLink
         }
     }
 }
+
+#endif

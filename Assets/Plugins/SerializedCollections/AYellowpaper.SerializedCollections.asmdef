@@ -1,8 +1,8 @@
 {
-  "name": "Tayx.Graphy.Editor",
-  "rootNamespace": "",
-  "references": [ "Tayx.Graphy" ],
-  "includePlatforms": [ "Editor" ],
+  "name": "AYellowpaper.SerializedCollections",
+  "rootNamespace": "AYellowpaper.SerializedCollections",
+  "references": [],
+  "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "overrideReferences": false,

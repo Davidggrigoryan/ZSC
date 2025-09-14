@@ -1,3 +1,4 @@
+#if ZSC_USE_FIREBASE
 ﻿using System;
 using UnityEngine;
 using System.Collections.Generic;
@@ -98,3 +99,5 @@ namespace ZombieSoccer.GameLayer.Characters
         }
     }
 }
+
+#endif

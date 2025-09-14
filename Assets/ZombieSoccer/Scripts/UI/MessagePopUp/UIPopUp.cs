@@ -1,3 +1,4 @@
+#if DOOZY_PRESENT
 ﻿using Doozy.Engine.UI;
 using System;
 using TMPro;
@@ -75,3 +76,5 @@ namespace ZombieSoccer.UI
         }
     }
 }
+
+#endif

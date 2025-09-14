@@ -1,3 +1,4 @@
+#if ZSC_USE_FIREBASE
 using System.Threading.Tasks;
 using UnityEngine;
 using Zenject;
@@ -39,3 +40,5 @@ namespace ZombieSoccer.UI.Views
         }
     }
 }
+
+#endif

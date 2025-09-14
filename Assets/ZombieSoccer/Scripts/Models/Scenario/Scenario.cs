@@ -1,3 +1,4 @@
+#if ZSC_USE_FIREBASE
 ﻿using Firebase;
 using System.Collections.Generic;
 using ZombieSoccer.Models;
@@ -21,3 +22,5 @@ namespace ZombieSoccer.ApplicationLayer.Data
 
     }
 }
+
+#endif

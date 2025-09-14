@@ -1,3 +1,4 @@
+#if DOOZY_PRESENT
 using Doozy.Engine.UI;
 using Sirenix.OdinInspector;
 using UnityEngine;
@@ -60,3 +61,5 @@ namespace ZombieSoccer.UI
 
     }
 }
+
+#endif

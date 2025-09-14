@@ -64,6 +64,7 @@ namespace ZombieSoccer.ApplicationLayer.Data
     }
 
     [System.Serializable]
+#if ZSC_USE_FIREBASE
     public class UserModel
     {        
 
@@ -128,4 +129,5 @@ namespace ZombieSoccer.ApplicationLayer.Data
         public DBStruct<ShieldData> Shield { get; private set; }
         public DBStruct<Dictionary<string, string>> Scenarios { get; private set; }
     }
+#endif
 }

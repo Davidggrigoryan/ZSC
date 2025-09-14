@@ -1,3 +1,4 @@
+#if ZSC_USE_FIREBASE
 ﻿using Cysharp.Threading.Tasks;
 using System;
 using System.Linq;
@@ -166,3 +167,5 @@ namespace ZombieSoccer.Models.DeckM
 
     }    
 }
+
+#endif
