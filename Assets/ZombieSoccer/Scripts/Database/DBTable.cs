@@ -1,3 +1,4 @@
+#if ZSC_USE_FIREBASE
 ﻿// Copyright 2017 Google Inc. All rights reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -212,3 +213,4 @@ public class DBObj<T> {
     this.data = data;
   }
 }
+#endif

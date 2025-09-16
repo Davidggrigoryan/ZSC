@@ -1,3 +1,4 @@
+#if DOOZY_PRESENT
 using Cysharp.Threading.Tasks;
 using System.Linq;
 using UnityEngine;
@@ -84,3 +85,4 @@ namespace ZombieSoccer.UI.Views
         }
     }
 }
+#endif

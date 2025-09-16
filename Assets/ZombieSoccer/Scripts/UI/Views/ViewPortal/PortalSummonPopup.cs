@@ -1,3 +1,4 @@
+#if DOOZY_PRESENT
 ﻿using Doozy.Engine.UI;
 using UnityEngine;
 using UnityEngine.UI;
@@ -78,3 +79,5 @@ namespace ZombieSoccer.UI.ViewPortalM
         }
     }
 }
+
+#endif

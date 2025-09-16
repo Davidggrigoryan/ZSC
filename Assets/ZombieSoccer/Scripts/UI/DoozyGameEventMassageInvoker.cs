@@ -1,3 +1,4 @@
+#if DOOZY_PRESENT
 using Doozy.Engine;
 using System.Collections;
 using System.Collections.Generic;
@@ -13,3 +14,5 @@ namespace ZombieSoccer
         }
     }
 }
+
+#endif

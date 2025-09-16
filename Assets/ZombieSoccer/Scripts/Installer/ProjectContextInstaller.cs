@@ -54,7 +54,9 @@ public class ProjectContextInstaller : MonoInstaller
 
     private void BindDeepLinkManager()
     {
+        #if ZSC_USE_FIREBASE
         Container.BindFactory<string, DeepLinkManager, DeepLinkManager.Factory>().FromFactory<PrefabResourceFactory<DeepLinkManager>>();
+        #endif
     }
 
     private void BindPageManager()
@@ -110,7 +112,9 @@ public class ProjectContextInstaller : MonoInstaller
 
     private void BindApplicationLayer()
     {
+        #if ZSC_USE_FIREBASE
         Container.BindInterfacesAndSelfTo<FirebaseAppFacade>().AsSingle().NonLazy();
+        #endif
         Container.BindInterfacesAndSelfTo<ResourcesManager>().AsSingle().NonLazy();
     }
 
@@ -129,21 +133,24 @@ public class ProjectContextInstaller : MonoInstaller
 
     private void BindFactories()
     {
+#if DOOZY_PRESENT
         Container.BindFactory<string, PortalSummonPopup, PortalSummonPopup.Factory>().FromFactory<PortalSummonPopup.Factory>();
+#endif
         Container.BindFactory<string, Character, TeamType, int, UnityEngine.Transform, MatchResultCharacterView, MatchResultCharacterView.Factory>().FromFactory<MatchResultCharacterView.Factory>();
         Container.BindFactory<string, MinimalCharacterView, MinimalCharacterView.Factory>().FromFactory<PrefabResourceFactory<MinimalCharacterView>>();
         Container.BindFactory<string, CartForUpdate, CartForUpdate.Factory>().FromFactory<PrefabResourceFactory<CartForUpdate>>();
         Container.BindFactory<string, CartSlotForGrid, CartSlotForGrid.Factory>().FromFactory<PrefabResourceFactory<CartSlotForGrid>>();
 
+#if DOOZY_PRESENT
         Container.BindFactory<string, NotifyingPopup, PopupBase<NotifyingPopup>.Factory>().FromFactory<PopupBase<NotifyingPopup>.Factory>();
         Container.BindFactory<string, DisintegratePopup, PopupBase<DisintegratePopup>.Factory>().FromFactory<PopupBase<DisintegratePopup>.Factory>();
         Container.BindFactory<string, StateSelectPopup, PopupBase<StateSelectPopup>.Factory>().FromFactory<PopupBase<StateSelectPopup>.Factory>();
         Container.BindFactory<string, ToShopMovePopup, PopupBase<ToShopMovePopup>.Factory>().FromFactory<PopupBase<ToShopMovePopup>.Factory>();
         Container.BindFactory<string, UpgradeCharacterPopup, PopupBase<UpgradeCharacterPopup>.Factory>().FromFactory<PopupBase<UpgradeCharacterPopup>.Factory>();
-
         Container.BindFactory<string, AboutPositionPopup, PopupBase<AboutPositionPopup>.Factory>().FromFactory<PopupBase<AboutPositionPopup>.Factory>();
         Container.BindFactory<string, AboutRarityPopup, PopupBase<AboutRarityPopup>.Factory>().FromFactory<PopupBase<AboutRarityPopup>.Factory>();
         Container.BindFactory<string, AboutElementsPopup, PopupBase<AboutElementsPopup>.Factory>().FromFactory<PopupBase<AboutElementsPopup>.Factory>();
+#endif
 
         Container.BindFactory<Character, TeamType, UnityEngine.Transform, DetailCharacterView, DetailCharacterView.Factory>().FromMonoPoolableMemoryPool(
             e => e.WithInitialSize(12).FromComponentInNewPrefabResource(CommonStrings.PrefabDetailCharacterView).UnderTransformGroup("DetailCharacters")).Lazy();

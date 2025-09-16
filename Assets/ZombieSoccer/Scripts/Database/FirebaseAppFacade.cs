@@ -1,3 +1,4 @@
+#if ZSC_USE_FIREBASE
 using Firebase;
 using Firebase.Database;
 using System.Threading.Tasks;
@@ -64,3 +65,5 @@ namespace ZombieSoccer.Database
         }
     }
 }
+
+#endif

@@ -1,3 +1,4 @@
+#if ZSC_USE_FIREBASE
 ﻿// Copyright 2016 Google Inc. All rights reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -109,3 +110,5 @@ public class DBStruct<T> where T : new()
         database.RootReference.Child(dbPathName).SetRawJsonValueAsync(json);
     }
 }
+
+#endif

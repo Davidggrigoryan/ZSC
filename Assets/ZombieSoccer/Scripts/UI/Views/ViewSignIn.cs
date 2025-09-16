@@ -1,3 +1,4 @@
+#if ZSC_USE_FIREBASE
 using Firebase.Auth;
 using Firebase.Database;
 using GooglePlayGames;
@@ -217,3 +218,5 @@ namespace ZombieSoccer.UI.Views
     }
 }
 
+
+#endif

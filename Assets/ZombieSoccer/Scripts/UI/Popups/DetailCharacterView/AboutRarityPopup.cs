@@ -1,3 +1,4 @@
+#if DOOZY_PRESENT
 ﻿using Doozy.Engine.UI;
 using System;
 using UnityEngine;
@@ -43,3 +44,5 @@ namespace ZombieSoccer.UI.Popups
         }
     }
 }
+
+#endif
